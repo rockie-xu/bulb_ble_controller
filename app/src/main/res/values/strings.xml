@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">Bulb Bluetooth Controller</string>
-    <string name="tab_text_1">Right now</string>
-    <string name="tab_text_2">Wake up</string>
+    <string name="tab_text_1">Bulb</string>
+    <string name="tab_text_2">Alarm</string>
+
+    <string name="btn_turn_on_off">TURN ON</string>
+    <string name="btn_save">SAVE</string>
+    <string name="txt_brightness">Helligkeit</string>
+    <string name="txt_yellow">Gelb</string>
 </resources>
