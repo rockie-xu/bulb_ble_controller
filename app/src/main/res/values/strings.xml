@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bulb Bluetooth Controller</string>
+    <string name="tab_text_1">Right now</string>
+    <string name="tab_text_2">Wake up</string>
+</resources>
